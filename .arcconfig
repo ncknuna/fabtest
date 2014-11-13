@@ -1,4 +1,4 @@
 {
   "project.name": "fabtest",
-  "phabricator.uri": "127.0.0.1:8002"
+  "phabricator.uri": "http://phab.tools.nuna.com"
 }
